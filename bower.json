@@ -1,0 +1,19 @@
+{
+  "name": "fastenate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/styel07/fastenate",
+  "authors": [
+    "styel07 <eleazarcorpuz@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
