@@ -1,3 +1,5 @@
+@import 'partials/settings';
+@import 'foundation/components/grid';
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 @import url(https://fonts.googleapis.com/css?family=Lato);
 
@@ -30,5 +32,22 @@ h1 {
 
   @media #{$large}{
 
+  }
+}
+
+section {
+  article {
+    @media #{$small}{
+      background-color: #fff;
+
+    }
+
+    @media #{$medium}{
+
+    }
+
+    @media #{$large}{
+
+    }
   }
 }
